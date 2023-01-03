@@ -14,5 +14,15 @@ b = y_intercept (from the regression_data.xlsx)
 
 For each of the analytical_result_id in raw_data.xlsx, find the analyte_id with largest value of a.
 
+BEFORE RUNNING (part 1):
+
+openpyxl_script:
+Ensure you have openpyxl installed:
+"pip install openpyxl"
+
+pandas_script:
+Ensure you have Pandas installed:
+"pip install pandas"
+
 
 
